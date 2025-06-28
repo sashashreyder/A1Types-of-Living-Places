@@ -3,61 +3,61 @@ const data = [
     word: 'cozy',
     prompt: 'We found a ___ little house in the village.',
     answer: 'cozy',
-    hint: 'Уютный'
+    hint: 'уютный'
   },
   {
     word: 'houseboat',
     prompt: 'They live on a ___ on the river.',
     answer: 'houseboat',
-    hint: 'Плавучий дом'
+    hint: 'плавучий дом'
   },
   {
     word: 'move',
     prompt: 'They want to ___ to a quieter place.',
     answer: 'move',
-    hint: 'Переезжать'
+    hint: 'переезжать'
   },
   {
     word: 'island',
     prompt: 'He owns a small ___ in the Pacific.',
     answer: 'island',
-    hint: 'Остров'
+    hint: 'остров'
   },
   {
     word: 'cramped',
     prompt: 'The apartment was small and ___.',
     answer: 'cramped',
-    hint: 'Тесный'
+    hint: 'тесный'
   },
   {
     word: 'cabin',
     prompt: 'We stayed in a wooden ___ in the forest.',
     answer: 'cabin',
-    hint: 'Хижина'
+    hint: 'хижина'
   },
   {
     word: 'rent',
     prompt: 'They ___ a small house by the forest.',
     answer: 'rent',
-    hint: 'Снимать, арендовать'
+    hint: 'снимать, арендовать'
   },
   {
     word: 'sunny',
     prompt: 'The living room is bright and ___.',
     answer: 'sunny',
-    hint: 'Солнечный'
+    hint: 'солнечный'
   },
   {
     word: 'treehouse',
     prompt: 'The kids built a ___ in the backyard.',
     answer: 'treehouse',
-    hint: 'Домик на дереве'
+    hint: 'домик на дереве'
   },
   {
     word: 'seclude',
     prompt: 'He wants to ___ himself in a quiet place.',
     answer: 'seclude',
-    hint: 'Уединяться'
+    hint: 'уединяться'
   }
 ];
 
